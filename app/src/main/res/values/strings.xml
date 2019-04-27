@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WolframCalc</string>
+
+    <!--activity_main.xml-->
+    <string name="input_hint">Input query</string>
+    <string name="calc_btn_text">Calculate</string>
+
+    <!--history_menu.xml-->
+    <string name="clean_history">Clean history</string>
+
+    <!--main_menu.xml-->
+    <string name="history">History</string>
+
+    <!--MainViewModel-->
+    <string name="input_text">Input text!</string>
+    <string name="error">Error</string>
+    <string name="empty">Empty</string>
+
+</resources>
